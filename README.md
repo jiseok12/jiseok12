@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hello,world&fontSize=90)
-<div style="align:center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok12&layout=compact) </div>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok12&layout=compact)
