@@ -23,5 +23,5 @@ Here are some ideas to get you started:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok12&layout=cobalt)
   <br>
   [![Solved.ac S2210214](http://mazassumnida.wtf/api/v2/generate_badge?boj=S2210214)](https://solved.ac/S2210214)
-
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
