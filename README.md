@@ -30,6 +30,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=flat-square&logo=VisualStudioCode&logoColor=white"/> 
   </div>
 </div>
 <hr>
