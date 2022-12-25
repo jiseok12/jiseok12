@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>Tech Stack</h3>
   <div>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   </div>
 </div>
-  <hr>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok12&layout=cobalt)
-  <br>
+
+<hr>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok12&layout=cobalt)
+<br>
   
   [![Solved.ac S2210214](http://mazassumnida.wtf/api/v2/generate_badge?boj=S2210214)](https://solved.ac/S2210214)
   
