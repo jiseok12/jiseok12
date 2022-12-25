@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=leejiseok&fontSize=90)
-  
-  <br>
 <div align="center">
-  <h3>Tech Stack</h3>
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=jiseok.Lee&fontSize=90)
+</div>
+
+<br>
+
+<div align="center">
+  <h2>Tech Stack</h2>
   <div>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
