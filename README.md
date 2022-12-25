@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/> <br>
@@ -39,8 +39,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=flat-square&logo=VisualStudioCode&logoColor=white"/> 
   </div>
 </div>
+
 <hr>
 
+<div align="center">
+  <h2>Follow me</h2>
+  <href="mailto:leejiseok2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiseok12&show_icons=true&theme=cobalt)
 
 <hr>
