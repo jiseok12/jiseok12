@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <div>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=C_Sharp&logoColor=white"/></a>&nbsp 
   </div>
 </div>
 
