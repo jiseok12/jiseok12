@@ -25,11 +25,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"/> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> 
   </div>
 </div>
 <hr>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiseok12&show_icons=true&theme=cobalt)
+
 <hr>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok12&layout=cobalt)
