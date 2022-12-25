@@ -20,9 +20,10 @@ Here are some ideas to get you started:
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiseok12&show_icons=true&theme=cobalt)
   <br>
 <div align="center">
-  <h3>skills</h3>
+  <h3>Tech Stack</h3>
   <div>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   </div>
 </div>
   <hr>
