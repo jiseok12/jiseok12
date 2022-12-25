@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=leejiseok&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=leejiseok&fontSize=90)
   
   <br>
 <div align="center">
