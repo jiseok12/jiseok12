@@ -1,5 +1,6 @@
+<!--
 ### Hi there 👋
-
+-->
 <!--
 **jiseok12/jiseok12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,10 +30,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <br>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/> <br>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=flat-square&logo=VisualStudioCode&logoColor=white"/> 
