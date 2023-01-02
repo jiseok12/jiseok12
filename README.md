@@ -39,9 +39,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=flat-square&logo=VisualStudioCode&logoColor=white"/> 
   </div>
 </div>
-
+<br>
 <hr>
-
+<br>
 <div align="center">
   <h2>Follow me</h2>
   <a href="https://www.instagram.com/ijiseog15/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
