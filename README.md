@@ -40,19 +40,12 @@ Here are some ideas to get you started:
   </div>
 </div>
 <br>
-<hr>
 <br>
 <div align="center">
   <h2>Follow me</h2>
   <a href="https://www.instagram.com/ijiseog15/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:leejiseok2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiseok12&show_icons=true&theme=cobalt)
-
-<hr>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok12&layout=cobalt)
 
 <br>
   
