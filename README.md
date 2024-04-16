@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   
 </div>
 <br>
-<b>portfolio: <a href="https://me2.kr/Bjixh">Lee jiseok portfolio notion</a></b><br>
-<b>mail: leejiseok2006@gmail.com</b> <br>
-<b>좌우명:벽을 넘어 보기전엔 벽 뒤에 무엇이 있는지 모른다.</b>
+- <b>portfolio: <a href="https://me2.kr/Bjixh">Lee jiseok portfolio notion</a></b><br>
+- <b>mail: leejiseok2006@gmail.com</b> <br>
+- <b>좌우명:벽을 넘어 보기전엔 벽 뒤에 무엇이 있는지 모른다.</b>
 <br>
 
 <div align="center">
