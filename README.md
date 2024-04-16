@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 </div>
 <br>
-* my portfolio: <a href="https://me2.kr/Bjixh">Lee jiseok portfolio notion</a>
+### my portfolio: <a href="https://me2.kr/Bjixh">Lee jiseok portfolio notion</a>
 <br>
 
 <div align="center">
