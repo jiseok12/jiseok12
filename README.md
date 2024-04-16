@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <h4>portfolio: <a href="https://me2.kr/Bjixh">Lee jiseok portfolio notion</a></h4>
-<br>
 <h4>mail: leejiseok2006@gmail.com</h4>
-<b></b>
 
 <br>
 
