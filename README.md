@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   ![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=jiseok.Lee&fontSize=90)
   
 </div>
-
+<br>
+my portfolio: <a href="https://me2.kr/Bjixh">Lee jiseok portfolio notion</a>
 <br>
 
 <div align="center">
